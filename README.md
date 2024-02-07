@@ -27,4 +27,4 @@ This Python script implements a Driver Drowsiness Detection System using compute
 2. Ensure dependencies are installed using pip install -r requirements.txt.
 3. Customize the alarm sound and recipient's WhatsApp number in the script.
    
-Feel free to contribute and enhance the functionality of this Driver Drowsiness Detection System!
+Feel free to contribute and enhance the functionality of this Driver Drowsiness Detection System!.
